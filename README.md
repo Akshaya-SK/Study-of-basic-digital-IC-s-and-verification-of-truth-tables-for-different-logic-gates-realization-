@@ -65,15 +65,15 @@ RegisterNumber:
 */
 Logic symbol & Truthtable
 RTL realization
-Output:
+# Output:
 ![Exp1 code](https://github.com/Akshaya-SK/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149347593/fed6ace4-ea46-4cfd-8a9c-bff35bd15be2)
 ![Exp1 wave](https://github.com/Akshaya-SK/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149347593/c4102112-0379-4d44-bc99-f7b5549026de)
 
-RTL
+# RTL
 ![Exp1 RTL diagram](https://github.com/Akshaya-SK/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149347593/11ca94b1-334a-4dc1-a3fc-6b8aa8f4b41e)
 
-TRUTH TABLE
+# TRUTH TABLE
 ![Exp1 truthtable](https://github.com/Akshaya-SK/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149347593/74a58eda-2fac-4942-8952-bc5d51c928d7)
 
-Result:
+# Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
